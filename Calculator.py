@@ -12,3 +12,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	else:
 		c="Operatoru duzgun daxil edin:"
 	return c
+#calculator
